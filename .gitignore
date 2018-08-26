@@ -1,1 +1,2 @@
-graphql-python/hackernews/hackernews/__pycache__
+graphql-python/hackernews/hackernews/__pycache__/*
+graphql-python/hackernews/hackernews/__pycache__/settings.cpython-36.pyc
