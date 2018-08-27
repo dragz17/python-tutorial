@@ -4,3 +4,7 @@ graphql-python/hackernews/hackernews/__pycache__/settings.cpython-36.pyc
 graphql-python/hackernews/hackernews/__pycache__/urls.cpython-36.pyc
 graphql-python/hackernews/links/__pycache__/schema.cpython-36.pyc
 graphql-python/hackernews/links/__pycache__/schema.cpython-36.pyc
+.DS_Store
+graphql-python/hackernews/users/__pycache__/schema.cpython-36.pyc
+graphql-python/hackernews/db.sqlite3
+graphql-python/hackernews/hackernews/__pycache__/settings.cpython-36.pyc
